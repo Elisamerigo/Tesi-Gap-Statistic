@@ -19,3 +19,5 @@ Per prima cosa ho creato una matrice contenente metà righe di 0 e metà di 1: q
 SanityCheck:
 
 Qui attuo delle verifiche per capire il funzionamento della metrica in esame. Prima mi creo una matrice 6x6 con tre righe di 0 e tre di 1 e mi calcolo la Gap Statistic. Successivamente riporto la matrice in un grafico per vedere la distribuzione dei punti. Nel secondo caso, invece, mi creo sempre una matrice 6x6 cambiando di volta in volta le righe con valori casuali tra 8 e 9. Mi calcolo la Gap Statistic sulla matrice finale e riporto ogni valore in un grafico per vedere la loro distribuzione.
+
+Nella cartella "results" sono presenti quattro files in PDF con i risultati a cui sono giunta.
